@@ -1,3 +1,10 @@
 body {
   background-color: rgb(30, 173, 180);
 }
+
+h1 {
+  color: aquamarine;
+}
+h2 {
+  color: white;
+}
