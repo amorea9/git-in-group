@@ -1,1 +1,2 @@
-console.log("hello there!");
+console.log("hey there");
+document.querySelector(".nice_message").remove();
